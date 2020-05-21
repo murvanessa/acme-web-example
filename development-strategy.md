@@ -81,7 +81,7 @@ Styling for the new element
 
 ---
 
-## 3. User Story: relate page services
+## 4. User Story: relate page services
 
 __As a site visitor, I want to read an introduction to this web page__
 
@@ -95,6 +95,20 @@ __As a site visitor, I want to read an introduction to this web page__
 - section element
 - some nice text in the section introducing users to this web page
 - search bar
+
+### CSS
+
+Styling for the new element
+
+---
+
+## 5. User Story: layout
+__As a site visitor, I want to read an introduction to this web page__
+
+### Branches
+
+1. This user story was developed on a brach called `layout`
+1. It was merged to `master` when the feature was finished.
 
 ### CSS
 
