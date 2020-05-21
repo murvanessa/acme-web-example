@@ -38,3 +38,24 @@ __As a site visitor, I want to know what the web page is called__
 - Text styling for the main title
 
 ---
+
+## 2. User Story: main page
+
+__As a site visitor, I want to read an introduction to this web page__
+
+### Branches
+
+1. This user story was developed on a brach called `Main`
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- section element
+- some nice text in the section introducing users to this web page
+- search bar
+
+### CSS
+
+Styling for the new element
+
+---
