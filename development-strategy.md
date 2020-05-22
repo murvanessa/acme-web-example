@@ -112,6 +112,5 @@ __As a site visitor, I want to read an introduction to this web page__
 1. It was merged to `master` when the feature was finished.
 
 ### CSS
-
-Here we only modified the css file so by adding @media to make the web page responsive
+We only modified the css file. By adding @media to make the web page responsive
 ---
