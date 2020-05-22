@@ -103,6 +103,7 @@ Styling for the new element
 ---
 
 ## 5. User Story: layout
+
 __As a site visitor, I want to read an introduction to this web page__
 
 ### Branches
@@ -112,6 +113,5 @@ __As a site visitor, I want to read an introduction to this web page__
 
 ### CSS
 
-Styling for the new element
-
+Here we only modified the css file so by adding @media to make the web page responsive
 ---
